@@ -168,3 +168,5 @@ progress{accent-color:#84549b;max-width:100%}.panel .small,.rank-card .small{lin
 
 .exam-plot{margin:1rem 0;padding:1rem;border-radius:16px;background:#38304e;color:#fff;max-width:610px}.exam-plot figcaption{display:flex;justify-content:space-between;gap:.5rem;align-items:center}.exam-plot small{font-size:.73rem;color:#e8dcef}.plot-area{display:flex;margin:.5rem 0 0;align-items:stretch}.y-axis{display:flex;flex-direction:column;justify-content:space-between;font-size:.7rem;color:#e5d9ef;min-width:2.1rem}.exam-plot .candles{flex:1;height:128px;margin:0;gap:6%}.exam-plot .candle:after{max-width:24px}.plot-ticks{display:flex;justify-content:space-around;margin-left:2rem;font-size:.68rem}.exam-plot details{background:#fff;color:#483b52;border-radius:9px;margin:.65rem 0 0;padding:.35rem .6rem}.exam-plot summary{cursor:pointer;font-size:.8rem;font-weight:750}
 
+
+.lab-figure figcaption,.exam-plot figcaption{color:#fff6ff}.lab-figure figcaption small,.exam-plot figcaption small{color:#e8def1}
